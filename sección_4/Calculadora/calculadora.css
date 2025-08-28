@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    margin: 20px;
+    background: radial-gradient(circle, #3c80e7, #80b0e7);
+    color: #333; /* Color del texto */
+   
+}
+
+h1 {
+    color: #333;
+}
+
+.inputs {
+    margin: 10px 0;
+}
+
+input[type="number"] {
+    width: 100px;
+    padding: 5px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+
+
+button {
+    background-color: #56bad8;
+    color: white;
+    border: none;
+    padding: 20px 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: rgb(5, 139, 133);
+}
+
+#resultado {
+    width: 200px;
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: #fff;
+}
