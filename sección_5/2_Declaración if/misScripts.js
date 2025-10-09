@@ -9,3 +9,4 @@ function evaluarCompra(cantidadDisponible) {
             cantidadComprada + " hay disponibles aun " + (cantidadDisponible - parseInt(cantidadComprada)).toString();;
     }
 }
+

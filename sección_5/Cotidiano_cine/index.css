@@ -1,0 +1,20 @@
+body {
+    background: #1a7e8b;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #26a1d1, #03384d);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #26a1d1, #03384d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}    
+
+h1 { 
+  color: rgb(0, 0, 0);
+}
+
+button {
+    background-color: #145ab6;
+    padding: 20px 40px;
+    border-radius: 60px;
+    color: aliceblue;
+}
+p {
+    color: aliceblue; 
+
+}

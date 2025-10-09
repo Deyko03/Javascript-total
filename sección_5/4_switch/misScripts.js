@@ -21,5 +21,9 @@ function consultarPrecio() {
         case "5":
             elementoRespuesta.textContent = "$7.21";
             break;
+            default: 
+            elementoRespuesta.textContent =
+            "lo que sea"
+            break;
     }
 }
